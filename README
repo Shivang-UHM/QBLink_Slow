@@ -1,5 +1,6 @@
 QBLink Project 
 ------------------------
+IMP: THIS VERSION IS BASED ON THE ORIGINAL QBLINK BUT WORKING ON 12.5 MHZ Clk for SIREAD Based EIC-pID Readout.
 DESCRIPTION:
 This project contains a communication protocol that is to be implemented in the Spartan6 FPGAs found in the 
 Hawaii Muon Beamlin (HMB) Daughtercard and the modular RICH (mRICH) boards. It will enable the Spartan6 to communicate with the onboard TargetX's. This project 
